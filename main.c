@@ -1,6 +1,6 @@
 /**
 *   @file   main.c
-*   @brief  Tool for ripping/null-signing Android ROM ZIP images.
+*   @brief  Tool for signature ripping/null-signing Android ROM ZIP images.
 *   @version 1.0
 *   @author Fardjad Davari
 *   @date   06/07/2012
